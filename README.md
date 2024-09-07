@@ -229,7 +229,7 @@ Markdown поддерживает и может быть скомбиниров�
 
 <a href="https://www.markdownguide.org">Официальная документация Markdown</a>
 
-<!-- <button onclick="this.style.color = 'green'">Button</button>
+<button onclick="this.style.color = 'green'">Button</button>
 
 <form>
 <input type="date"/>
@@ -242,4 +242,4 @@ Markdown поддерживает и может быть скомбиниров�
     border: none;
     color: grey;
   }
-</style> -->
+</style>
